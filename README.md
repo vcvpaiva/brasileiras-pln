@@ -1,4 +1,4 @@
-## Léxicos de Sentimento
+## Recursos Léxicos 
 
 - **Brazilian Portuguese LIWC 2007 Dictionary** - http://143.107.183.175:21380/portlex/index.php/pt/projetos/liwc
 - **AffectPT-BR** - https://github.com/LaCAfe/AffectPT-br
@@ -6,7 +6,7 @@
 - **Léxico do ReLi** - https://www.linguateca.pt/Repositorio/ReLi/
 - **WordNetAffect-BR** - https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/wordnetaffectbr/
 - **Personalitatem Lexicon** - https://personalitatem.ufs.br/lexicon/
-- **OpenWordNet-PT** - https://github.com/own-pt/openWordnet-PT
+- **OpenWordNet-PT** - codigo: https://github.com/own-pt/openWordnet-PT interface: http://openwordnet-pt.org
 
 <!--
 **brasileiras-pln/brasileiras-pln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
